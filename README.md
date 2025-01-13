@@ -1,6 +1,6 @@
 # PINGO
 
-When you to keep something alive with the *wrong* permissions.
+When you need to keep something alive with the *wrong* permissions.
 
 ![Pingo in action](https://media.giphy.com/media/snUaDwX2aPXV6RPjgw/giphy.gif)
 
